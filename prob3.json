@@ -1,0 +1,14 @@
+{
+  "name" : "TaehoJE",
+  "job" : "student",
+  "age" : "21",
+  "hobby" : "basketball",
+  "course_table" : [
+    {"course" : "법학의 이해", "id" : "SOSC361"},
+    {"course" : "확률및통계", "id" : "MATH230"},
+    {"course" : "응용선형대수", "id" : "MATH203"},
+    {"course" : "컴퓨터SW시스템개론", "id" : "CSED211"},
+    {"course" : "오토마타및형식언어", "id" : "CSED341"},
+    {"course" : "컴퓨터공학도를 위한 자기계발", "id" : "CSED291"}
+  ]
+}
